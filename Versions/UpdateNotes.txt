@@ -7,3 +7,5 @@
   > added bulk delete command.
 1.0.67:
   > finished work on previous version lookup capability.
+1.0.68:
+  > fixed issue with duplicate replies after sending multiple messages.
