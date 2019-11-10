@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 
-const token = "NjQwNzY2Nzg4NDY4MjExNzI0.Xb-msg.GyoOIiIJzI5U4jseySHhfZDlk2I";
+const token = "TOKEN";
 const pkg = require("./package.json");
 
 var prefix = "\\";
