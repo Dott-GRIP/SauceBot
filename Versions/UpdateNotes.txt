@@ -9,3 +9,5 @@
   > finished work on previous version lookup capability.
 1.0.68:
   > fixed issue with duplicate replies after sending multiple messages.
+1.0.69:
+  > re-arranged lines of code.
