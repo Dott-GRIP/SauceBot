@@ -11,3 +11,6 @@
   > fixed issue with duplicate replies after sending multiple messages.
 1.0.69:
   > re-arranged lines of code.
+1.0.70:
+  > fixed issue where all messages would be considered commands whether or not the prefix was present.
+  > i.e: prefix = "\" typing "cinfo" would be read as the info command where the "c" character can be replaced with any character.
