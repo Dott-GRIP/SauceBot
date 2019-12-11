@@ -17,3 +17,5 @@
 1.0.71:
   > added welcome message.
   > added config file.
+1.1.01:
+  > fixed issue where commands wouldn't accept aliases.
