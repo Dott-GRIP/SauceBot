@@ -19,3 +19,7 @@
   > added config file.
 1.1.01:
   > fixed issue where commands wouldn't accept aliases.
+1.1.02:
+  > removed aliases for the following commands:
+    > information (inf)
+    > information - version (v)
