@@ -13,7 +13,7 @@
   > re-arranged lines of code.
 1.0.70:
   > fixed issue where all messages would be considered commands whether or not the prefix was present.
-  > i.e: prefix = "\" typing "cinfo" would be read as the info command where the "c" character can be replaced with any character.
+    i.e: prefix = "\" typing "cinfo" would be read as the info command where the "c" character can be replaced with any character.
 1.0.71:
   > added welcome message.
   > added config file.
