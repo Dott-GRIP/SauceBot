@@ -24,3 +24,10 @@
   > removed aliases for the following commands:
     > information (inf)
     > information - version (v)
+1.1.03:
+  > synced past and present version lookup:
+    > past: previous version: n.n.nn
+    > present: current version: n.n.nn
+  > added aliases past and present version info command:
+    > past: +past, +last
+    > present: +present, +now
