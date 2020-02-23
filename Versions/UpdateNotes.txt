@@ -23,3 +23,4 @@
   > removed aliases for the following commands:
     > information (inf)
     > information - version (v)
+  > set default response for blank version info command to current version
