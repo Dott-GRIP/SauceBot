@@ -3,10 +3,10 @@
 1.0.65:
   > added ping and info commands.
 1.0.66:
-  > started work on previous version lookup capability.
+  > started work on previous version lookup compatibility.
   > added bulk delete command.
 1.0.67:
-  > finished work on previous version lookup capability.
+  > finished work on previous version lookup compatibility.
 1.0.68:
   > fixed issue with duplicate replies after sending multiple messages.
 1.0.69:
